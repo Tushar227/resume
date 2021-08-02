@@ -1,0 +1,80 @@
+{
+	"basics": {
+		"name": "Tushar Patel",
+		"label": "Student",
+		"picture": "---Enter Image URL----",
+		"email": "2020kuec2047@iiitkota.ac.in",
+		"phone": "8081230413",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication engineering.",
+		"location": {
+			"address": "Purvi Patel Nagar, Vrindavan city, Madhoganj, Hardoi",
+			"postalCode": "241302",
+			"city": "Madhoganj",
+			"countryCode": "India",
+			"region": "Uttar Pradesh"
+		},
+		"profiles": [
+                {
+                "network": "Github",
+                "username": "Tushar227",
+                "url": "https://www.github.com/Tushar227"
+            },
+            {
+                "network": "Instagram",
+                "username": "its_.tush_",
+                "url": "https://www.instagram.com/its_.tush_/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "courses": [
+                "Electronics & Communication Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "C/C++"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Singing"
+            ]
+        },
+      {
+            "name": "Painting",
+            "keywords": [
+                "Painting",
+                "Doodling"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Badminton",
+		            "Cricket"
+            ]
+        }
+    ],
+    "references": []
+}
